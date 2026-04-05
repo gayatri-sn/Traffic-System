@@ -177,5 +177,3 @@ server/
 - [x] JWT token handling (interceptors)
 
 ---
-
-*Built for MERN Stack Final Year Project — 2024*
